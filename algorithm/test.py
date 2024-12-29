@@ -1,18 +1,31 @@
-def main(n, h_list):
+def get_next(oper: int, val: int, cnt: int):
+    if oper != 2:
+        return (cnt+1, val+oper)
+    else:
+        return (cnt, val*oper)
+
+
+def bfs(start: int, goal: int):
     from collections import deque
-    stack = []
-
-    for h in h_list:
-        if not stack:  # 스택이 비었으면 처음 값 append
-            stack.append(h)
-            continue
+    q = deque([(0, start)])
+    visit = set([start])
+    move = [-1, 1, 2]
+    
+    while q:
+        cnt, curr = q.popleft()
         
-        while stack:
-            curr = stack.pop()
-            if curr > h:
-                stack.append(curr)
-                break
-        stack.append(h)
-    return stack 
+        for oper in move:
+            next_cnt, next = get_next(oper, curr, cnt)
+            
+            if next not in visit:
+                q.append((next_cnt, next))
+                visit.add(next)
+            
+            if next == goal:
+                return next_cnt           
 
-print(main(7, [6,9,7,6,4,6, 10]))
+
+
+if __name__ == "__main__":
+    n, k = map(int, input().split())
+    print(bfs(n, k))
