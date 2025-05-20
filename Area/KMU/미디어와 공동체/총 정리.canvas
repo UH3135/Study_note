@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"11d6acdbff3cc465","x":-91,"y":-31,"width":250,"height":60,"type":"text","text":"# 이야기의 구성"},
+		{"id":"4dd247bd5cebda6c","x":-340,"y":160,"width":278,"height":80,"type":"text","text":"## 주제\n- 이야기를 관통하는 핵심"},
+		{"id":"23e5e7ed879e1420","x":-340,"y":303,"width":277,"height":137,"type":"text","text":"## 플롯\n- 주제를 전달하기 위한 이야기의 배열"}
+	],
+	"edges":[
+		{"id":"7fcdee8c5dca6844","fromNode":"11d6acdbff3cc465","fromSide":"bottom","toNode":"4dd247bd5cebda6c","toSide":"top"},
+		{"id":"a80011f7fa34974b","fromNode":"4dd247bd5cebda6c","fromSide":"bottom","toNode":"23e5e7ed879e1420","toSide":"top"}
+	]
+}

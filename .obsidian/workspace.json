@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "0e6dd099ac03cab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4855587f1102d76a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62ac7317c9d8727c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db9e8fdfbbae3c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "dacc7a6a1e84dcce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05dacf214c27ea9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c9ecd5d32c848f5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "0ff6ba1419cce353",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "677c78f929883322",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdc1a9bf29a71b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c30a0a1b5365df6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project/진행중/Capstone/발표용 자료/지식 기반 데이터 처리.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "지식 기반 데이터 처리 의 백링크"
+            }
+          },
+          {
+            "id": "abb5be178d7a1bcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Capstone 프로젝트.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Capstone 프로젝트 의 나가는 링크"
+            }
+          },
+          {
+            "id": "3dbc8b71d9e0af37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "0c09bed51b0f13bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Capstone 프로젝트.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Capstone 프로젝트 의 개요"
+            }
+          },
+          {
+            "id": "e721c0d9d46c1f43",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "62ac7317c9d8727c",
+  "lastOpenFiles": [
+    "무제 폴더",
+    "Area/KMU/컬잉/단어.md",
+    "Area/KMU/미디어와 공동체/영상 평가.md",
+    "Project/Capstone/발표 피드백.md",
+    "Area.md",
+    "Project.md",
+    "Recording.md",
+    "스크린샷 2025-03-22 오후 2.26.56.png.md",
+    "스크린샷 2025-03-17 오후 2.34.50.png.md",
+    "Area/기록/지식 저장 방법.canvas",
+    "Area/기록/3줄 노트",
+    "Project/Email-summary",
+    "Project/AD Project",
+    "Project/Capstone",
+    "Project/capstone/3월 27일 회고록.md",
+    "Project/Tasty_rag/Crawling 도중 생긴 문제.md",
+    "Project/Tasty_rag/Untitled.md",
+    "Untitled 1.md",
+    "Area/KMU/미디어와 공동체/시험대비/중간대체 과제.md",
+    "Archive/Logging.canvas",
+    "Archive/AI 관련 지식.canvas",
+    "Archive/정리해야할 내용.md",
+    "Area/KMU/미디어와 공동체/발표 준비/내가 좋아한 작품.md",
+    "Area/KMU/미디어와 공동체/6주차 1차시.md",
+    "Area/KMU/미디어와 공동체/총 정리.canvas",
+    "Area/기록/2월 28일 할 일.md",
+    "Area/기록/4월 5일 내가 해야하는 일.md",
+    "Project/capstone",
+    "Area/KMU/미디어와 공동체/4주차 1차시.md",
+    "Area/KMU/미디어와 공동체/3주차 1차시.md",
+    "Area/KMU/미디어와 공동체/3주차 2차시.md",
+    "Area/KMU/미디어와 공동체/시험대비",
+    "Area/KMU/비컴최기/4주차 1차시.md",
+    "일정.md",
+    "수행계획서 작성.md",
+    "수행계획서.md",
+    "스크린샷 2025-03-22 오후 2.32.07.png",
+    "스크린샷 2025-03-22 오후 2.29.58.png",
+    "스크린샷 2025-03-22 오후 2.26.56.png",
+    "스크린샷 2025-03-22 오후 2.26.46.png",
+    "스크린샷 2025-03-22 오후 2.25.37.png",
+    "스크린샷 2025-03-19 오전 11.47.25.png",
+    "스크린샷 2025-03-17 오후 2.34.50.png",
+    "스크린샷 2025-03-17 오후 2.34.23.png",
+    "Resource/프로젝트",
+    "스크린샷 2025-03-13 오전 11.58.13.png",
+    "스크린샷 2025-03-13 오전 11.58.59.png",
+    "Resource/기록/Parsing Table From HTML.canvas",
+    "Area/KMU/비컴최기/2주차 1차시.canvas",
+    "Area/현재 나의 상황.canvas",
+    "Project/Tasty_rag",
+    "Resource/프론트엔드",
+    "Resource/백엔드",
+    "Resource/프로젝트 관련 지식/프로젝트를 진행하는 방법.canvas",
+    "Project/진행중/Capstone/실험/3월 1주차 진행상황.canvas",
+    "Project/진행중/Capstone/발표용 자료/hwp to json logic.canvas"
+  ]
+}
