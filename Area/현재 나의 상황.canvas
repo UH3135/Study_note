@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"28c69cb4fd6c110b","x":-115,"y":-38,"width":250,"height":60,"type":"text","text":"## 도전"},
-		{"id":"6c2fa4dedb319d1f","x":-380,"y":99,"width":390,"height":401,"type":"text","text":"### 캡스톤 디자인\n1. table 데이터 가공\n\t1. 상관관계를 파악\n\t2. 상하관계가 있는 방향으로 key - value로 저장\n2. "}
-	],
-	"edges":[
-		{"id":"ab07d55167f127f2","fromNode":"28c69cb4fd6c110b","fromSide":"bottom","toNode":"6c2fa4dedb319d1f","toSide":"top"}
-	]
-}
